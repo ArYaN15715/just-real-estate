@@ -1,0 +1,26 @@
+{
+  "overview": "Just Real Estate — a high-end, interactive, visually immersive real estate demo experience for South Bopal, Ahmedabad. Cinematic hero with 3D parallax, horizontal snap-scroll property showcase with glassmorphism, scroll-choreographed storytelling sections, and premium micro-interactions throughout.",
+  "features": [
+    "Cinematic fullscreen hero with 3D mouse tilt and staggered text reveal",
+    "Horizontal snap-scroll property showcase with glassmorphism panels",
+    "Scroll progress indicator and smooth inertia scrolling",
+    "Animated Why Us cards and dynamic Services hover system",
+    "Auto-sliding testimonials carousel",
+    "Live Activity badges and Recently Added tags",
+    "Custom cursor effects on desktop",
+    "Sticky mobile bottom action bar",
+    "Property comparison tool",
+    "WhatsApp lead integration"
+  ],
+  "category": "real-estate",
+  "tags": [
+    "real-estate",
+    "interactive",
+    "premium",
+    "glassmorphism",
+    "animations",
+    "parallax",
+    "ahmedabad"
+  ],
+  "last_updated": "2026-04-17T08:27:01.881Z"
+}
